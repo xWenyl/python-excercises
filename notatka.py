@@ -1,3 +1,12 @@
+"""
+klasa: Notatka
+opis: Klasa pozwalająca na tworzenie notatek z tytułem oraz treścią. Każda notatka ma unikalne ID. Klasa zlicza ilość obiektów.
+pola:
+    _tytul - zawiera tytuł notatki
+    _tresc - zawiera treść notatki
+    __id - zawiera unikalne ID notatki
+autor: 00000000000
+"""
 class Notatka:
     __licznik = 0
 
